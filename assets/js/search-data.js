@@ -402,8 +402,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-welcome-to-my-new-website-sparkles-smile",
-          title: 'Welcome to my new website! :sparkles: :smile:',
+            },},{id: "news-welcome-to-my-new-website-sparkles-smile-replacing-my-old-unmaintained-website-click-here",
+          title: 'Welcome to my new website! :sparkles: :smile: replacing my old, unmaintained website: click...',
           description: "",
           section: "News",},{id: "projects-2p-3d-rixs",
           title: '2p-3d RIXS',
