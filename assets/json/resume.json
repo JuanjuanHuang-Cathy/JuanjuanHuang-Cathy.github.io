@@ -21,7 +21,7 @@
     }
   ]
 },
-  "Hobbies": [
+  "hobbies": [
     {
       "name": "the Advanced Photon Source, Argonne National Laborotary",
       "position": "Assistant beamline scientist",
