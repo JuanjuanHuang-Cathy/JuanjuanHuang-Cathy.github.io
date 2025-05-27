@@ -21,6 +21,24 @@
     }
   ]
 },
+  "Hobbies": [
+    {
+      "name": "the Advanced Photon Source, Argonne National Laborotary",
+      "position": "Assistant beamline scientist",
+      "location": "Lemont, USA",
+      "url": "",
+      "startDate": "2023-10-01",
+      "endDate": "present"
+    },
+    {
+      "name": "the Advanced Photon Source, Argonne National Laborotary",
+      "position": "Postdoctoral Appointee",
+      "location": "Lemont, USA",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "2023-09-01"
+    }
+  ],
   "education": [
     {
       "institution": "Physics department, Technical University of Munich (TUM)",
