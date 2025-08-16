@@ -30,7 +30,7 @@ latest_posts:
 
   - 🟨 **I dedicate** to push the extreme of X-ray techniques. For eight years, I have devoted myself to developing fast, single-acquisition X-ray Absorption Spectroscopy (dispersive XAS), now reaching the frontier of ms time resolution.
 
-  - 🟦 **I believe** art is a science just like science is also an art. Both share a beauty that transcends boundaries, the symmetry in randomness, the harmony in disorders.. I pursue work that is a piece of art, rather than just being good.
+  - 🟦 **I believe** art is a science just like science is also an art. Both share a beauty that transcends boundaries, the symmetry in randomness, the harmony in disorders.. I pursue work that is a piece of art, rather than just good results.
 
 
   - 🟥 **I seek** for a simple but unique life. "我们终此一生，就是要摆脱他人的期待，找到真正的自己" (*Our lifelong journey is to break free from others’ expectations and discover our truest selves.*)
