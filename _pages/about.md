@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-  - 🟪 **I am** a enthusiastic and passionate scientist without borders. My journey spans three continents - Asia, Europe, and America — where chemistry, materials science, and high-energy physics have fused togther to shape my path.
+  - 🟪 **I am** a enthusiastic and passionate scientist without borders. My journey spans three continents — Asia, Europe, and America — where chemistry, materials science, and high-energy physics have fused togther to shape my path.
 
   - 🟦 **I believe** art is a science just like science is also an art. Both share a beauty that transcends boundaries, the symmetry in randomness, the harmony in disorders.. I pursue work that is a piece of art, rather than just being good.
 
