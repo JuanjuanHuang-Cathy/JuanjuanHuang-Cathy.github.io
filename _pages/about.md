@@ -26,10 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-  - **I am** ⚛️ a scientist without borders — My journey spans three continents—Asia, Europe, and America—where chemistry, materials science, and high-energy physics have intertwined to shape my path.
+  - 🟪 **I am**  a enthusiastic and passionate scientist without borders. My journey spans three continents - Asia, Europe, and America — where chemistry, materials science, and high-energy physics have fused togther to shape my path.
 
-  - **I believe** 〰️ Art is a Science just like science is also an art. I pursue for beautiful results rather than good results. 
+  - 🟦 **I believe** Art is a science just like science is also an art. Both share a beauty that transcends boundaries, the symmetry in randomness, the harmony in disorders.. I pursue work that is a piece of art, rather than just being good.
 
-  - **I dedicate to** 🔭 push the extreme of X-ray technique — For eight years, I have devoted myself to pioneering fast, single-acquisition dispersive X-ray Absorption Spectroscopy, now reaching the frontier of millisecond resolution.
+  - 🟨 **I dedicate to** 🔭 push the extreme of X-ray techniques. For eight years, I have devoted myself to developing fast, single-acquisition X-ray Absorption Spectroscopy (dispersive XAS), now reaching the frontier of ms time resolution.
 
-  - **I thrive** 🪐 on enthusiasm and passion: curious, creative, and relentless in the pursuit of knowledge that bridges disciplines and illuminates new possibilities. 
+  - 🟥 **I seek** 🪐 for a simple but unique life. "我们终此一生，就是要摆脱他人的期待，找到真正的自己" (*Our lifelong journey is to break free from others’ expectations and discover our truest selves.*)
