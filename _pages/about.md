@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Beamline Scientist, Advanced Photon Source, Argonne National Laboratory, USA 
+subtitle: Scientist at the Advanced Photon Source, Argonne National Laboratory, USA 
 
 profile:
   align: right
   image: about_personal_photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>HUANG JUANJUAN (Cathy) </p>
-    <p>黄 涓涓</p>
+    <p style="font-family: Georgia, serif;">HUANG JUANJUAN (Cathy)</p>
+    <p style="font-family: "KaiTi", "STKaiti", serif;">黄 涓涓</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
