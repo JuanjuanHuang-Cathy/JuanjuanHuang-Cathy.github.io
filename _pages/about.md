@@ -26,4 +26,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Beamline Scientist at the Advanced Photon Source, Argonne National Laboratory, currently working at the spectroscopy group (25-ID, 20-BM and 9 BM). With a multidisciplinary background in physics, material science, and chemistry, my research focuses on developing synchrotron techniques, especially regarding X-ray spectroscopy and spectral imaging techniques, and applying them in fundamental science.
+I am:
+  - 🌍 A Scientist Without Borders — My journey spans three continents—Asia, Europe, and America—where chemistry, materials science, and high-energy physics have intertwined to shape my path.
+
+I believe:
+  - 🎨 Art is a Science just like science is also an art. I pursue for beautiful results rather than good results. 
+
+For my work: 
+  - Pushing the extreme of X-ray technique — For eight years, I have devoted myself to pioneering fast, single-acquisition Dispersive X-ray Absorption Spectroscopy, now reaching the frontier of millisecond resolution.
+
+I am enthusiastic and passionate:
+  - At my core, I am an enthusiastic scientist: curious, creative, and relentless in the pursuit of knowledge that bridges disciplines and illuminates new possibilities. 
