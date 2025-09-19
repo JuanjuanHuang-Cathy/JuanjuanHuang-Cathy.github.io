@@ -432,7 +432,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-mof",
           title: 'MOF',
-          description: "",
+          description: "A metal organic framework (made with Crystal Maker)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/MOF/";
             },},{id: "projects-3d-hela-cells-imaging",
@@ -442,17 +442,17 @@ ninja.data = [{
               window.location.href = "/projects/gallery_3D_HeLa_cells_imaging/";
             },},{id: "projects-cad-rail-design",
           title: 'CAD rail design',
-          description: "",
+          description: "A CAD design for microprobe sample stage allowing feasible switch between transmission and fluorescence geometry.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_CAD_rail_design/";
             },},{id: "projects-cad-sample-wheel",
           title: 'CAD sample wheel',
-          description: "",
+          description: "Sample mounting design for high-throughput sample measurements. (made with Inventor + Keyshot)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_CAD_sample_wheel/";
             },},{id: "projects-dxas-2d-mapping",
-          title: 'DXAS 2d mapping',
-          description: "",
+          title: 'DXAS 2D mapping',
+          description: "The first battery 2D mapping I did at APS. I didn&#39;t sleep the whole night cause that was the last day before APS&#39;s upgrade!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_DXAS_2d_mapping/";
             },},{id: "projects-ml48-monochroamtor-detuning-simulation",
@@ -462,17 +462,17 @@ ninja.data = [{
               window.location.href = "/projects/gallery_ML48_monochroamtor_detuning_simulation/";
             },},{id: "projects-mucls-logo-design",
           title: 'MuCLS logo design',
-          description: "",
+          description: "An artistic design for the Munich Compact Light Source (made with Adobe Photoshop)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_MuCLS_logo_design/";
             },},{id: "projects-x-ray-raman-crystal-scanning",
           title: 'X-ray Raman crystal scanning',
-          description: "",
+          description: "A bent crystal analyzer scanning across different k.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_X-ray_Raman_crystal_scanning/";
             },},{id: "projects-xafs2025-logo-design",
           title: 'XAFS2025 logo design',
-          description: "",
+          description: "Logo designed for XAFS2025 conference (unfortunately the conference is cancelled, made with Adobe Illustrator)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_XAFS2025_logo_design/";
             },},{id: "projects-xanes-pre-edge-fitting",
@@ -480,29 +480,29 @@ ninja.data = [{
           description: "Mn compounds measured at ID26, ESRF",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_XANES_preedge_fitting/";
-            },},{id: "projects-gallery-xasvsxrd",
-          title: 'gallery XASvsXRD',
-          description: "gallery XASvsXRD",
+            },},{id: "projects-gallery-xas-vs-xrd",
+          title: 'gallery XAS vs XRD',
+          description: "This is one of my favorate figure I made to compare X-ray absorption spectroscopy (XAS) and X-ray diffraction (XRD).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_XASvsXRD/";
             },},{id: "projects-crystal-lattice-distortions",
           title: 'Crystal lattice distortions',
-          description: "",
+          description: "Animations showing different types of crystal lattice distortions. (made with Cinema4D)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_crystal_lattice_twisting/";
             },},{id: "projects-deep-learning",
           title: 'Deep learning',
-          description: "U-net convolutional neural network for image segmentation",
+          description: "U-net convolutional neural network for image segmentation. This was the very first AI stuff I tried to do.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_deep_learning/";
             },},{id: "projects-dispersive-beam-measured-at-the-mucls",
-          title: 'dispersive beam measured at the MuCLS',
-          description: "",
+          title: 'Dispersive beam measured at the MuCLS',
+          description: "I remembered measuring this the first year of my PhD. The first time when I showed my professor, he said &quot;This is beautiful!&quot;",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_dispersive_beam_measured_at_the_MuCLS/";
             },},{id: "projects-grating-based-phase-contrast-imaging",
-          title: 'grating based phase contrast imaging',
-          description: "",
+          title: 'Grating-based phase-contrast imaging',
+          description: "Yes, I am a spectroscopist graduated from an imaging group! But I do know quite some imaging stuff too.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_grating_based_phase_contrast_imaging/";
             },},{id: "projects-insitu-xas",
@@ -511,8 +511,8 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_insitu_XAS/";
             },},{id: "projects-inverse-compton-scattering",
-          title: 'inverse Compton scattering',
-          description: "",
+          title: 'Inverse Compton scattering',
+          description: "I spent my entire PhD exploring how we can do fun stuff using an Iverse Compton Source.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_inverse_Compton_scattering/";
             },},{id: "projects-dft-optimized-molecular-orbital",
@@ -520,14 +520,14 @@ ninja.data = [{
           description: "Molecular orbital of [Mn(II)(CN)6]’s eg and t2g orbitals’ splitting.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_molecular_orbitals_3d_splitting/";
-            },},{id: "projects-monochroamtor-detune-simulations",
-          title: 'monochroamtor detune simulations',
-          description: "",
+            },},{id: "projects-monochromator-detune-simulations",
+          title: 'monochromator detune simulations',
+          description: "This shows the monochromator&#39;s reflectivities when detuning (adjusting second crystal&#39;s angle)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_monochroamtor_detune_simulations/";
             },},{id: "projects-my-hobbies-of-making-fancy-powerpoints",
           title: 'my hobbies of making fancy powerpoints',
-          description: "",
+          description: "Can you believe the 3d animations are made inside powerpoint! (the sample model is real! from a reconstructed CT scan of a sea cumcumber by Simone Ferstl)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_my_hobbies_of_making_fancy_powerpoints/";
             },},{id: "projects-two-photon-luminescent-complex",
@@ -535,14 +535,14 @@ ninja.data = [{
           description: "An overview of two-photon luminescent metal complexes and applications in bioimaging and cancer phototherapy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gallery_two_photon_luminescent/";
-            },},{id: "projects-mono-scanning-e",
-          title: 'mono scanning E',
-          description: "",
+            },},{id: "projects-monochromator-energy-scanning",
+          title: 'monochromator energy scanning',
+          description: "This demonstrate how we scans across different X-ray energies (animation made with Cinema4D)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mono_scanning_E/";
-            },},{id: "projects-two-e-xas",
-          title: 'two E XAS',
-          description: "",
+            },},{id: "projects-two-energy-xas",
+          title: 'two-energy XAS',
+          description: "This is one of my favorate science work that is able to measure two XAS simultaneously using a lab source! But it&#39;s too niche, so actually got almost no citations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/two_E_XAS/";
             },},{
