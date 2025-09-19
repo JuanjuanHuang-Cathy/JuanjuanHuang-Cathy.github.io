@@ -1,7 +1,7 @@
 ---
 layout: page
-title: gallery XASvsXRD
-description: gallery XASvsXRD
+title: gallery XAS vs XRD
+description: This is one of my favorate figure I made to compare X-ray absorption spectroscopy (XAS) and X-ray diffraction (XRD).
 img: assets/img/gallery_XASvsXRD.png
 importance: 2
 category: work

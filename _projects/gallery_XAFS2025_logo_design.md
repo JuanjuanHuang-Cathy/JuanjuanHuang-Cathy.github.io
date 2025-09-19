@@ -1,7 +1,7 @@
 ---
 layout: page
 title: XAFS2025 logo design
-description: 
+description: Logo designed for XAFS2025 conference (unfortunately the conference is cancelled, made with Adobe Illustrator)
 img: assets/img/gallery_XAFS2025_logo_design.png
 importance: 2
 category: work

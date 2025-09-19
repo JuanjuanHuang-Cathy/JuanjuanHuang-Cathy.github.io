@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAD rail design
-description: 
+description: A CAD design for microprobe sample stage allowing feasible switch between transmission and fluorescence geometry.
 img: assets/img/gallery_CAD_rail_design.png
 importance: 2
 category: work

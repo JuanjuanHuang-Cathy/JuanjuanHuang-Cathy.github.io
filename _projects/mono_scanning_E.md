@@ -1,7 +1,7 @@
 ---
 layout: page
-title: mono scanning E
-description: 
+title: monochromator energy scanning
+description: This demonstrate how we scans across different X-ray energies (animation made with Cinema4D)
 img: assets/img/mono_scanning_E.gif
 importance: 2
 category: work

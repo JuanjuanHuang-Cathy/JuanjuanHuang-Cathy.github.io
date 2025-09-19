@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MOF
-description: 
+description: A metal organic framework (made with Crystal Maker)
 img: assets/img/MOF.png
 importance: 2
 category: work
