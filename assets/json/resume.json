@@ -1,6 +1,6 @@
 {  "basics": {
   "name": "Juanjuan Huang",
-  "label": "Assistant Beamline Scientist",
+  "label": "Assistant Physicist",
   "image": "",
   "email": "Juanjuan.huang@anl.gov",
   "phone": "",
@@ -57,7 +57,7 @@
   "work": [
     {
       "name": "the Advanced Photon Source, Argonne National Laborotary",
-      "position": "Assistant beamline scientist",
+      "position": "Assistant physicist and beamline scientist",
       "location": "Lemont, USA",
       "url": "",
       "startDate": "2023-10-01",
@@ -65,7 +65,7 @@
     },
     {
       "name": "the Advanced Photon Source, Argonne National Laborotary",
-      "position": "Postdoctoral Appointee",
+      "position": "Postdoctoral researcher",
       "location": "Lemont, USA",
       "url": "",
       "startDate": "2022-09-01",
