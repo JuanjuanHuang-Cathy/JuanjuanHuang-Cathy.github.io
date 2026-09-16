@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV_of_JuanjuanHUANG.pdf # you can also use external links here
+# cv_pdf: CV_of_JuanjuanHUANG.pdf # Uncomment to show a PDF download link.
 description:
 toc:
   sidebar: left
