@@ -111,6 +111,13 @@
   ],
   "talks": [
     {
+      "title": "Invited Talk: Automation and Self-Driving Labs Workshop",
+      "location": "Berkeley, USA",
+      "date": "2026-09",
+      "url": "https://sites.google.com/lbl.gov/automationandself-driving/home-agenda/speakers",
+      "summary": "\"Dr.XAS: Toward an Agentic Ecosystem for Intelligent X-ray Absorption Spectroscopy\""
+    },
+    {
       "title": "Conference: APS Global Physics Summit 2026",
       "location": "Denver, USA",
       "date": "2026-03",
