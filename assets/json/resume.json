@@ -111,9 +111,7 @@
   ],
   "talks": [
     {
-      "titlePrefix": "Workshop:",
-      "title": "Automation and Self-Driving Labs Workshop",
-      "titleSuffix": "@ Berkeley National Laboratory",
+      "title": "Workshop: Automation and Self-Driving Labs Workshop @ Berkeley National Laboratory",
       "date": "2026-09",
       "url": "https://sites.google.com/lbl.gov/automationandself-driving/home-agenda/speakers",
       "summary": "\"Dr.XAS: Toward an Agentic Ecosystem for Intelligent X-ray Absorption Spectroscopy\""
