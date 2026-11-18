@@ -1,5 +1,7 @@
 {% assign drxas_media = '/assets/img/research-focus/drxas/' | relative_url %}
-{% assign drxas_items = 'drxas|Co foil EXAFS fit;bench|XASBench|4;prep|XASPrep|7;knowledge|XAS Knowledge Base|13;calculation|XAS Calculation Agent|14;labeller|Artifact Labeller|16;scanner|Sample Scanner|16;feff|FeffDB|20' | split: ';' %}
+{% assign drxas_items = 'drxas|Co foil EXAFS fit;bench|XASBench|4;prep|XASPrep|7;knowledge|XAS Knowledge Base|13;calculation|XAS Calculation Agent|14;labeller|Artifact Labeller|16;scanner|Sample Scanner|16;feff|FeffDB|20'
+  | split: ';'
+%}
 <section class="rf-drxas" data-rf-drxas aria-label="Dr.XAS">
   <div class="rf-drxas__brand">
     <canvas class="rf-drxas__field" aria-hidden="true"></canvas>
@@ -12,30 +14,59 @@
     {% for row in (0..1) %}
       {% assign offset = row | times: 4 %}
       <div class="rf-drxas__lane">
-        {% for item in drxas_items offset:offset limit:4 %}
+        {% for item in drxas_items offset: offset limit: 4 %}
           {% assign parts = item | split: '|' %}
           {% if parts[0] == 'drxas' %}
-          <a class="rf-drxas__tile" href="{{ drxas_media }}drxas-sac-figure.png" target="_blank" rel="noopener"
-             aria-label="Open the full Dr.XAS interface figure from the SAC poster in a new tab">
-            <img src="{{ drxas_media }}drxas-sac-fit.webp" width="900" height="565" loading="lazy"
-                 alt="Dr.XAS fits the first Co coordination shell and displays the EXAFS wavelet transform.">
-            <span>{{ parts[1] }}</span>
-          </a>
+            <a
+              class="rf-drxas__tile"
+              href="{{ drxas_media }}drxas-sac-figure.png"
+              target="_blank"
+              rel="noopener"
+              aria-label="Open the full Dr.XAS interface figure from the SAC poster in a new tab"
+            >
+              <img
+                src="{{ drxas_media }}drxas-sac-fit.webp"
+                width="900"
+                height="565"
+                loading="lazy"
+                alt="Dr.XAS fits the first Co coordination shell and displays the EXAFS wavelet transform."
+              >
+              <span>{{ parts[1] }}</span>
+            </a>
           {% else %}
-          <a class="rf-drxas__tile" href="{{ drxas_media }}{{ parts[0] }}.mp4"
-             target="_blank" rel="noopener" aria-label="Watch {{ parts[1] }} demonstration in a new tab">
-            <video width="800" height="480" muted loop playsinline preload="none" aria-hidden="true"
-                   poster="{{ drxas_media }}{{ parts[0] }}.webp" data-start="{{ parts[2] }}"></video>
-            <span>{{ parts[1] }}</span>
-          </a>
+            <a
+              class="rf-drxas__tile"
+              href="{{ drxas_media }}{{ parts[0] }}.mp4"
+              target="_blank"
+              rel="noopener"
+              aria-label="Watch {{ parts[1] }} demonstration in a new tab"
+            >
+              <video
+                width="800"
+                height="480"
+                muted
+                loop
+                playsinline
+                preload="none"
+                aria-hidden="true"
+                poster="{{ drxas_media }}{{ parts[0] }}.webp"
+                data-start="{{ parts[2] }}"
+              ></video>
+              <span>{{ parts[1] }}</span>
+            </a>
           {% endif %}
         {% endfor %}
       </div>
     {% endfor %}
   </div>
   <div class="rf-drxas__footer">
-    <a href="{{ drxas_media }}drxas-sac-figure.png" target="_blank" rel="noopener"
-       aria-label="View the full Dr.XAS interface figure in a new tab">View Dr.XAS interface <span aria-hidden="true">↗</span></a>
+    <a
+      href="{{ drxas_media }}drxas-sac-figure.png"
+      target="_blank"
+      rel="noopener"
+      aria-label="View the full Dr.XAS interface figure in a new tab"
+      >View Dr.XAS interface <span aria-hidden="true">↗</span></a
+    >
     <button type="button" class="rf-drxas__motion" data-drxas-motion hidden>
       <span aria-hidden="true">Ⅱ</span> <span data-drxas-motion-label>Pause motion</span>
     </button>

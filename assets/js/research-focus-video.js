@@ -34,10 +34,13 @@
   video.addEventListener("pause", showState);
   toggle.addEventListener("click", togglePlayback);
   video.addEventListener("click", togglePlayback);
-  new IntersectionObserver(([entry]) => {
-    inView = entry.intersectionRatio >= 0.25;
-    updatePlayback();
-  }, { threshold: [0, 0.25] }).observe(video);
+  new IntersectionObserver(
+    ([entry]) => {
+      inView = entry.intersectionRatio >= 0.25;
+      updatePlayback();
+    },
+    { threshold: [0, 0.25] }
+  ).observe(video);
   document.addEventListener("visibilitychange", updatePlayback);
   motion.addEventListener("change", () => {
     wantsPlayback = !motion.matches;

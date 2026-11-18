@@ -28,12 +28,16 @@ html[data-theme="dark"] .current-research-focus {
   margin: 0 0 1.1rem;
   font-size: 1.18rem;
   font-weight: 600;
-  letter-spacing: -.018em;
+  letter-spacing: -0.018em;
   line-height: 1.35;
 }
 
-#focus-dispersive-heading { color: var(--focus-violet); }
-#focus-ai-heading { color: var(--focus-plum); }
+#focus-dispersive-heading {
+  color: var(--focus-violet);
+}
+#focus-ai-heading {
+  color: var(--focus-plum);
+}
 
 .research-focus-figure {
   min-width: 0;
@@ -51,9 +55,9 @@ html[data-theme="dark"] .current-research-focus {
 }
 
 .research-focus-figure figcaption {
-  margin: .55rem 0 0;
+  margin: 0.55rem 0 0;
   color: var(--focus-caption);
-  font-size: .82rem;
+  font-size: 0.82rem;
   line-height: 1.45;
 }
 
@@ -71,9 +75,9 @@ html[data-theme="dark"] .current-research-focus {
 
 .research-focus-pair {
   display: grid;
-  grid-template-columns: minmax(0, .7025fr) minmax(0, 1.2667fr);
+  grid-template-columns: minmax(0, 0.7025fr) minmax(0, 1.2667fr);
   align-items: start;
-  gap: clamp(.65rem, 1.25vw, 1rem);
+  gap: clamp(0.65rem, 1.25vw, 1rem);
 }
 
 .research-focus-pair > a {
@@ -88,10 +92,10 @@ html[data-theme="dark"] .current-research-focus {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: .45rem;
-  margin-top: .65rem;
+  gap: 0.45rem;
+  margin-top: 0.65rem;
   color: var(--global-text-color);
-  font-size: .9rem;
+  font-size: 0.9rem;
   text-wrap: pretty;
 }
 

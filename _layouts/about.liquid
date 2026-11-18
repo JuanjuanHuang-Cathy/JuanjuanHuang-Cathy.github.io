@@ -65,20 +65,39 @@ layout: default
             <h3 id="focus-dispersive-heading">{{ page.current_research_focus.dispersive }}</h3>
             <figure class="research-focus-figure research-focus-optics">
               <a href="https://doi.org/10.1107/S1600577525004953">
-                <img src="{{ '/assets/img/research-focus/aps-25-id-optics.webp' | relative_url }}" width="1600" height="604" loading="lazy"
-                  alt="APS 25-ID dispersive XAS optics, from the undulator through the focusing mirrors, sample and bent crystal to the area detector.">
+                <img
+                  src="{{ '/assets/img/research-focus/aps-25-id-optics.webp' | relative_url }}"
+                  width="1600"
+                  height="604"
+                  loading="lazy"
+                  alt="APS 25-ID dispersive XAS optics, from the undulator through the focusing mirrors, sample and bent crystal to the area detector."
+                >
               </a>
               <figcaption><a href="https://doi.org/10.1107/S1600577525004953">Dispersive XAS optics at APS 25-ID</a></figcaption>
             </figure>
             <figure class="research-focus-figure research-focus-measurement">
               <div class="research-focus-pair">
                 <a href="{{ '/assets/img/research-focus/10000-xanes.webp' | relative_url }}" aria-describedby="focus-spectra-caption">
-                  <img src="{{ '/assets/img/research-focus/10000-xanes.webp' | relative_url }}" width="1020" height="1452" loading="lazy"
-                    alt="Ten thousand unaveraged XANES spectra, color-coded and stacked in acquisition order.">
+                  <img
+                    src="{{ '/assets/img/research-focus/10000-xanes.webp' | relative_url }}"
+                    width="1020"
+                    height="1452"
+                    loading="lazy"
+                    alt="Ten thousand unaveraged XANES spectra, color-coded and stacked in acquisition order."
+                  >
                 </a>
-                <video id="sargent-dxas" width="1520" height="1200" controls loop muted playsinline preload="none"
+                <video
+                  id="sargent-dxas"
+                  width="1520"
+                  height="1200"
+                  controls
+                  loop
+                  muted
+                  playsinline
+                  preload="none"
                   aria-label="Time-resolved XAS with a synchronized detector image and absorption spectrum"
-                  poster="{{ '/assets/img/research-focus/sargent-dxas.jpg' | relative_url }}">
+                  poster="{{ '/assets/img/research-focus/sargent-dxas.jpg' | relative_url }}"
+                >
                   <source src="{{ '/assets/video/research-focus/sargent-dxas.mp4' | relative_url }}" type="video/mp4">
                   <a href="{{ '/assets/video/research-focus/sargent-dxas.mp4' | relative_url }}">Open the dispersive XAS movie</a>
                 </video>
@@ -89,7 +108,12 @@ layout: default
                   <button type="button" id="sargent-playback" hidden aria-controls="sargent-dxas" aria-label="Play the time series">
                     <span aria-hidden="true"></span>
                   </button>
-                  <a href="{{ '/assets/video/research-focus/sargent-dxas.mp4' | relative_url }}" aria-label="Open the time-resolved XAS movie" title="Open the time-resolved XAS movie"><span aria-hidden="true">↗</span></a>
+                  <a
+                    href="{{ '/assets/video/research-focus/sargent-dxas.mp4' | relative_url }}"
+                    aria-label="Open the time-resolved XAS movie"
+                    title="Open the time-resolved XAS movie"
+                    ><span aria-hidden="true">↗</span></a
+                  >
                 </span>
               </figcaption>
             </figure>
