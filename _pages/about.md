@@ -14,8 +14,8 @@ profile:
 banner: assets/img/banner.png
 
 current_research_focus:
-  - Pushing extremes XAS
-  - Accelerating Discovery with AI
+  dispersive: Pushing extremes XAS
+  ai: Accelerating Discovery with AI
 social: true # includes social icons at the bottom of the page
 
 announcements:
